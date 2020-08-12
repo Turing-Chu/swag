@@ -237,7 +237,7 @@ func (parser *Parser) ParseGeneralAPIInfo(mainAPIFile string) error {
 		return fmt.Errorf("cannot parse source files %s: %s", mainAPIFile, err)
 	}
 
-	parser.swagger.Swagger = "2.0"
+	parser.swagger.Swagger = "3.0"
 	securityMap := map[string]*spec.SecurityScheme{}
 
 	for _, comment := range fileTree.Comments {
