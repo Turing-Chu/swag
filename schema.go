@@ -3,7 +3,7 @@ package swag
 import (
 	"errors"
 	"fmt"
-	"github.com/go-openapi/spec"
+	"github.com/Turing-Chu/spec"
 	"go/ast"
 	"strings"
 )

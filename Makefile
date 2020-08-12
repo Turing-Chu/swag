@@ -59,7 +59,7 @@ deps:
 	$(GOGET) github.com/gin-gonic/gin
 	$(GOGET) github.com/KyleBanks/depth
 	$(GOGET) github.com/go-openapi/jsonreference
-	$(GOGET) github.com/go-openapi/spec
+	$(GOGET) github.com/Turing-Chu/spec
 	$(GOGET) github.com/stretchr/testify/assert
 	$(GOGET) github.com/alecthomas/template
 	$(GOGET) golang.org/x/tools/go/loader
