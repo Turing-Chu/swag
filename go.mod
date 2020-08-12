@@ -1,4 +1,4 @@
-module github.com/swaggo/swag
+module github.com/Turing-Chu/swag
 
 require (
 	github.com/KyleBanks/depth v1.2.1
@@ -6,7 +6,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/gin-gonic/gin v1.4.0
 	github.com/go-openapi/jsonreference v0.19.3
-	github.com/go-openapi/spec v0.19.4
+	github.com/Turing-Chu/spec v0.19.4
 	github.com/satori/go.uuid v1.2.0
 	github.com/shopspring/decimal v1.2.0
 	github.com/stretchr/testify v1.4.0
@@ -16,4 +16,4 @@ require (
 	golang.org/x/tools v0.0.0-20190614205625-5aca471b1d59
 )
 
-go 1.13
+go 1.14
