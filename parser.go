@@ -21,7 +21,7 @@ import (
 	"unicode"
 
 	"github.com/KyleBanks/depth"
-	"github.com/go-openapi/spec"
+	"github.com/Turing-Chu/spec"
 )
 
 const (

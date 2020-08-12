@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-openapi/spec"
+	"github.com/Turing-Chu/spec"
 	"golang.org/x/tools/go/loader"
 )
 

@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/go-openapi/spec"
+	"github.com/Turing-Chu/spec"
 	"github.com/stretchr/testify/assert"
 )
 
